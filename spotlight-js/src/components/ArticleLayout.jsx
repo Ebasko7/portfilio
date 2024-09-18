@@ -22,7 +22,7 @@ function ArrowLeftIcon(props) {
 }
 
 export function ArticleLayout({ article, children }) {
-  let router = useRouter()
+  let router = useRouer()
   let { previousPathname } = useContext(AppContext)
 
   return (
