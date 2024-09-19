@@ -58,8 +58,8 @@ export default function About() {
         </div>
         <div className="lg:order-first lg:row-span-2">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">
-            I’m Spencer Sharp. I live in New York City, where I design the
-            future.
+            I’m Eric Baskovich. A Hawaii based full-stack developer and program
+            manager with extensive background in DoD Acquisitions.
           </h1>
           <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
             <p>
