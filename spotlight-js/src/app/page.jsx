@@ -264,7 +264,8 @@ export default async function Home() {
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
             My name is Eric. I have an extensive DoD software integration
-            background, and a passion for learning.
+            background managing and delivering software capabilities. I also
+            have a passion for learning.
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink href="#" aria-label="Follow on X" icon={XIcon} />
