@@ -66,6 +66,7 @@ export default function About() {
             <p>PLACEHOLDER</p>
             <p>PLACEHOLDER</p>
             <p>PLACEHOLDER</p>
+            <p>PLACEHOLDER</p>
           </div>
         </div>
         <div className="lg:pl-20">
