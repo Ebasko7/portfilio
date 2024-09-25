@@ -62,7 +62,11 @@ export default function About() {
             manager with extensive background in DoD Acquisitions.
           </h1>
           <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
-            <p>I've always had an interest in technology</p>
+            <p>
+              I've always had an interest in technology, and gained an
+              appreciation for the complexies of software as a DoD weapons
+              system integrator.
+            </p>
             <p>PLACEHOLDER</p>
             <p>PLACEHOLDER</p>
             <p>PLACEHOLDER</p>
