@@ -67,7 +67,7 @@ export default function About() {
               appreciation for the complexies of software as a DoD weapons
               system integrator.
             </p>
-            <p>PLACEHOLDER</p>
+            <p>PLACEHOLDER 1</p>
             <p>PLACEHOLDER</p>
             <p>PLACEHOLDER</p>
             <p>PLACEHOLDER</p>
